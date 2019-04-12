@@ -1,11 +1,16 @@
 _repo: Kings-Mountain-National-Military-Park-South-Carolina-National-Park-Service-Historical-Handboo__59192
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59192-h/images/cover.jpg
 creator:
   author:
     agent_name: Mackenzie, George C.
     gutenberg_agent_id: '50336'
     url: http://www.gutenberg.org/2009/agents/50336
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59192#Kings-Mountain-National-Military-Park-South-Carolina-National-Park-Service-Historical-Handboo_
 gutenberg_issued: '2019-04-02'
 gutenberg_type: Text
 identifiers:
